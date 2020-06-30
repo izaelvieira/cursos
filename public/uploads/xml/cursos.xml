@@ -1,0 +1,3363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cursos>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+    <curso>
+        <nome>Administração</nome>
+        <codigo>1</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia de Produção</nome>
+        <codigo>2</codigo>
+    </curso>
+    <curso>
+        <nome>Sistemas de Informação</nome>
+        <codigo>3</codigo>
+    </curso>
+    <curso>
+        <nome>Engenharia Elétrica</nome>
+        <codigo>4</codigo>
+    </curso>
+    <curso>
+        <nome>Educação Física</nome>
+        <codigo>5</codigo>
+    </curso>
+    <curso>
+        <nome>Fisioterapia</nome>
+        <codigo>6</codigo>
+    </curso>
+</cursos>
